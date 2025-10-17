@@ -48,7 +48,7 @@ Created a **Hotel Reservation Dashboard** in Power BI to monitor booking trends 
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="www.linkedin.com/in/chinnapagaprasanna7" target="_blank">
+  <a href="www.linkedin.com/in/prasannachinnapaga" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;&nbsp;
