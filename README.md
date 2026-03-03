@@ -32,13 +32,13 @@ Built a **Customer Shopping Behaviour** in Python,SQL,PowerBi to analyze busines
 
 ---
 
-#### ☎️ 2. Call Center Performance Dashboard (Excel)
+####  2. Call Center Performance Dashboard (Excel)
 Developed a **Call Center Performance Dashboard** using MS Excel to analyze operations and efficiency.  
 **Skills Used:** Excel, Power Pivot, DAX, Pivot Charts, Dashboard Design  
 
 ---
 
-#### 🏨 3. Hotel Bookings Dashboard (Power BI + Power Query)
+####  3. Hotel Bookings Dashboard (Power BI + Power Query)
 Created a **Hotel Reservation Dashboard** in Power BI to monitor booking trends and cancellations.  
 
 **Skills Used:** Power BI, Power Query, DAX, Data Cleaning, Dashboard Design  
