@@ -28,8 +28,8 @@ I love building dashboards, analyzing performance, and creating visual stories t
 ### 📁 Projects  
 
 ####  1.Customer Shopping Behaviour
-Built a **Customer Shopping Behaviour** in Python,SQL,PowerBi to analyze business insights.  
-**Skills Used:** Python,SQL,Power BI,DAX
+Built a **Customer Shopping Behaviour** in Python,SQL,PowerBi to analyze business insights. 
+
 ---
 
 #### ☎️ 2. Call Center Performance Dashboard (Excel)
