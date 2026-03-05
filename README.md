@@ -36,6 +36,7 @@ Built a **Customer Shopping Behaviour** in Python,SQL,PowerBi to analyze busines
 
 ####  2. Call Center Performance Dashboard (Excel)
 Developed a **Call Center Performance Dashboard** using MS Excel to analyze operations and efficiency.  
+
 **Skills Used:** Excel, Power Pivot, DAX, Pivot Charts, Dashboard Design  
 
 ---
